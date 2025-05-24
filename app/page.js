@@ -71,7 +71,7 @@ export default function Home() {
             fontSize: 18,
           }}
         >
-          Headstarter Support
+          Pentagram Support
         </Box>
 
         {/* Message list */}
